@@ -1,11 +1,9 @@
 package com.example.chatapp3.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-import com.example.chatapp3.R;
-import com.example.chatapp3.databinding.ActivitySingInBinding;
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.example.chatapp3.databinding.ActivitySingUpBinding;
 
 public class SingUpActivity extends AppCompatActivity {
