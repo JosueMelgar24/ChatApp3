@@ -20,4 +20,5 @@ private ActivitySingUpBinding binding;
     private void setListeners(){
         binding.txtusuarioRegistrado.setOnClickListener(v -> onBackPressed());
     }
+
 }

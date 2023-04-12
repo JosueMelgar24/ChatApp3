@@ -1,11 +1,10 @@
 package com.example.chatapp3.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.chatapp3.R;
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.example.chatapp3.databinding.ActivitySingInBinding;
 
 public class SingInActivity extends AppCompatActivity {
@@ -20,10 +19,12 @@ public class SingInActivity extends AppCompatActivity {
 
     }
 
-
-
     private void setListeners(){
        binding.txtnuevoUsuario.setOnClickListener(v ->
                startActivity(new Intent(getApplicationContext(), SingUpActivity.class)));
+
     }
+
+
+
 }
