@@ -11,7 +11,7 @@
     tools:context=".activities.SingUpActivity">
 
     <LinearLayout
-        android:id="@+id/layotImage"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
@@ -25,6 +25,7 @@
             android:textSize="@dimen/_18sdp"
             android:textStyle="bold"/>
         <FrameLayout
+            android:id="@+id/layotImage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/_20sdp">
@@ -36,6 +37,7 @@
                 android:scaleType="centerCrop"
                 app:riv_oval="true"/>
             <TextView
+                android:id="@+id/textAddImage"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"

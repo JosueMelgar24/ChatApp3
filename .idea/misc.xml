@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/drawable/background_icon.xml" value="0.1215" />
         <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/drawable/background_image.xml" value="0.132" />
         <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/drawable/background_input.xml" value="0.1" />
-        <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/layout/activity_main.xml" value="0.17798913043478262" />
-        <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/layout/activity_sing_in.xml" value="0.28524590163934427" />
+        <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/layout/activity_sing_in.xml" value="0.2643312101910828" />
         <entry key="..\:/Users/josue/Downloads/ChatApp3/app/src/main/res/layout/activity_sing_up.xml" value="0.22" />
       </map>
     </option>
